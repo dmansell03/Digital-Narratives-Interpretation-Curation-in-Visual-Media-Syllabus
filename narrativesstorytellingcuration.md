@@ -6,11 +6,11 @@
 ### Week One: 
 
 
-### Week Two: 
+### Week Two: Demagio Discussion Question 
 
 
 
-### Week Three: 
+### Week Three: Demagio Discussion Question 
 
 
 
@@ -32,11 +32,11 @@ Annotated bibliography
 
 
 
-### Week Eight: 
+### Week Eight: Keidra Discussion Question 
 
 
 
-### Week Nine: 
+### Week Nine: Keidra Discussion Question 
 
 
 
@@ -44,17 +44,17 @@ Annotated bibliography
 
 
 
-### Week Eleven: 
+### Week Eleven: Collaborative Question 
 
 
   
-### Week Twelve: 
+### Week Twelve: Collaborative Question 
 
 
 
 ### Week Thirteen: 
 
 
-### Final Paper (Due December 11, 2021)
+### Final Paper 
 
-- Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by the end of finals week!
+- Submit & complete your Final Reflection, as well as any approved late work, by the end of finals week!
