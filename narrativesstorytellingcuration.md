@@ -18,11 +18,11 @@
 
 
   
-### Week Five: 
+### Week Five: Noemi Discussion Question
 
 
 
-### Week Six: 
+### Week Six: Noemi Discussion Question
 
 
   
