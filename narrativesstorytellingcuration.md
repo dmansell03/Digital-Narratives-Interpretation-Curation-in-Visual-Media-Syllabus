@@ -55,7 +55,6 @@ Annotated bibliography
 ### Week Thirteen: 
 
 
-
 ### Final Paper (Due December 11, 2021)
 
 - Submit & complete your [Final Reflection](exercises/reflection.md), as well as any approved late work, by the end of finals week!
