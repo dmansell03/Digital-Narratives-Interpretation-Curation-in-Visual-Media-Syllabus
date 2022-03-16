@@ -12,8 +12,6 @@
 Annonated Bibliography (50 points)
 Final Paper (50 points) 
 
-## Weekly Schedule
-
 ## Assignments
 
 ### Discussion Posts: 
@@ -28,6 +26,7 @@ You will develop an annotated bibliography exploring perspectives and theoretica
 
 ### Final Paper: 
 
+## Weekly Schedule
 
 ### Week One: 
 
