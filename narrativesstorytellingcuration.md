@@ -1,6 +1,17 @@
-# First level heading
-## Second level heading
+# ENG 6820: Narrative Storytelling Curation
+- **Instructor:** Keidra Navaroli, Noemi Nunez, and Demagio Mansell 
+- **Email:** 
+- **Office:** Zoom; Wednesday 2:00 - 5:00 PM
+- **Course Meeting:** Asynchronous Online
+## Readings 
+Rogue Archives 
+
 ### Third level heading
+
+8 discussion posts (10 points each) 
+Annonated Bibliography (50 points)
+Final Paper (50 points) 
+
 ## Weekly Schedule
 
 ### Week One: 
