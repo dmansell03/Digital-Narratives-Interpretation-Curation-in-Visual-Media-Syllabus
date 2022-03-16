@@ -6,7 +6,7 @@
 ## Readings 
 <i>Rogue Archives: Digital Cultural Memory and Media Fandom</i> by Abigail DeKosnik 
 
-### Third level heading
+### Grading
 
 8 discussion posts (10 points each) 
 Annonated Bibliography (50 points)
