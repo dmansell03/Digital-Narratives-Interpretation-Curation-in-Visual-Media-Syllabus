@@ -22,7 +22,9 @@ Storyboarding offers a way to visualize the relationship between objects and/or 
 ### Annotated Bibliography: 
 You will develop an annotated bibliography exploring perspectives and theoretical debates that have been central to the field of visual media. There should be at least 5 annotations. They might include other topics more relevant to your own research. What are the key contributions of visual media literature to your larger field of inquiry? What models from these theoretical traditions have informed work in those fields? This bibliography is intended to get you familiar with the field and the academic discussions surrounding visual media, storytelling and narratives. It is also a starting point for your final project and should include a brief abstract of what you hope to explore through that project. 
 
-### Digital Exhibition: You will create your own digital exhibition space using Scalar, a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. You will choose a specific story world and provide your audience with a visual and textual representation of your interpretation and narrative. Using Scalar makes it easy for the user to publish content online. You will utilize Scalar as a platform to discuss your findings through a written post that MUST incorporate use of media formats to support your findings.
+### Digital Exhibition: 
+
+You will create your own digital exhibition space using Scalar, a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. You will choose a specific story world and provide your audience with a visual and textual representation of your interpretation and narrative. Using Scalar makes it easy for the user to publish content online. You will utilize Scalar as a platform to discuss your findings through a written post that MUST incorporate use of media formats to support your findings.
 
 ### Final Paper: 
 
