@@ -14,6 +14,10 @@ Final Paper (50 points)
 
 ## Weekly Schedule
 
+## Assignments
+
+### Discussion Posts:
+
 ### Week One: 
 
 
