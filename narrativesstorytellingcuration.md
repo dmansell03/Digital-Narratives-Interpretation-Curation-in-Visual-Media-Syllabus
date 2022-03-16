@@ -1,10 +1,10 @@
 # ENG 6820: Narrative Storytelling Curation
-- **Instructor:** Keidra Navaroli, Noemi Nunez, and Demagio Mansell 
-- **Email:** 
+- **Instructors:** Keidra Navaroli, Noemi Nunez, and Demagio Mansell 
+- **Email:** knavaroli@knights.ucf.edu; noemin@knights.ucf.edu; dmansell03@knights.ucf.edu
 - **Office:** Zoom; Wednesday 2:00 - 5:00 PM
 - **Course Meeting:** Asynchronous Online
 ## Readings 
-Rogue Archives 
+<i>Rogue Archives: Digital Cultural Memory and Media Fandom</i> by Abigail DeKosnik 
 
 ### Third level heading
 
