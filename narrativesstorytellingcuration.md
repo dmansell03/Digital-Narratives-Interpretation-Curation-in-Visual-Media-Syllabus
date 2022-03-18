@@ -54,9 +54,15 @@ You will write a paper related to the topics discussed over the course of the se
 
 ### Week Two: Demagio Discussion Question 
 
+Kosnik, Abigail De. 2016. Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press.
+			Introduction (pp 1-24)
+Chapter 3: "Queer and Feminist Archival Cultures: The Politics of Preserving Fan Works" (pp 131 – 154)
+
 
 
 ### Week Three: Demagio Discussion Question 
+
+Barragán, Paco. 2014. “Is the Arts Curator a Storyteller and Curating a Sophisticated Communication Process? (Curatorial Communication Process Diagram).” ARTPULSE [NO. 19 VOL 5 2014], June. https://www.academia.edu/7888157/Is_the_Arts_Curator_a_Storyteller_and_Curating_a_sophisticated_Communication_Process_Curatorial_Communication_Process_Diagram_.
 
 
 
