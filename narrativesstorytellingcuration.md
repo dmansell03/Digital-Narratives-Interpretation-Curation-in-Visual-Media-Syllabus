@@ -10,9 +10,10 @@ This course focuses on understanding the ways in which curation can be used to s
 
 ## Course Objectives
 
-- Examine the impact of curatorial practice form themes, fan theories, and debates in fan studies. 
-- Identify current themes in fan studies and growth of narrative in visual media environment. 
-- Students are to become familiar with web open-source tools.
+- Examine the impact of curatorial practice on a variety of visual media including theories and debates in fan studies, art history, and game studies. 
+- Identify current themes in fan studies and trace the growth of narrative in visual media discourses. 
+- Familiarize students with Web-based open-source tools.
+- Teach students effective methods for the discussion, organization, and presentation of their research.
 
 
 ## Required Texts
