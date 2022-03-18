@@ -56,7 +56,7 @@ You will write a paper related to the topics discussed over the course of the se
 
 ## Weekly Schedule
 
-### Week One: Introductions
+### Week One: Introductions and Activity Verification
 
 
 ### Week Two: Demagio Discussion Question 
