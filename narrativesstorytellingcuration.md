@@ -43,13 +43,13 @@ You will create your own digital exhibition space using Scalar, a free, open sou
 
 ### Final Paper: 
 
-You will write a paper related to the topics discussed over the course of the semester. Throughout the semester, we explored various theories related to visual media and art, as well as storytelling and narratives --your paper/project should continue a conversation the texts and we started during the semester. You should engage with issues and questions that arose through the texts and discussions in some specific way, using research and outside sources (a minimum of 5, at least 3 course texts referenced) to support your claims, argument(s), and/or assertions. While you are expected to use substantial sources, your voice and writing should still be primary. You are using sources to support your voice and content. The paper should be approximately 15 pages, double-spaced, and must closely and critically analyze and/or make a significant argument that addresses a question or issue arising from the materials from the course.
+You will write a paper related to the topics discussed over the course of the semester. Throughout the semester, we explored various theories related to visual media and art, as well as storytelling and narratives --your final paper should continue a conversation with texts we started during the semester. You should engage with issues and questions that arose through the texts and discussions in some specific way, using research and outside sources (a minimum of 5, at least 3 course texts referenced) to support your claims, argument(s), and/or assertions. While you are expected to use substantial sources, your voice and writing should still be primary. You are using sources to support your voice and content. The paper should be approximately 15 pages, double-spaced, and must closely and critically analyze and/or make a significant argument that addresses a question or issue arising from the materials from the course.
 
 
 
 ## Weekly Schedule
 
-### Week One: 
+### Week One: Introductions
 
 
 ### Week Two: Demagio Discussion Question 
@@ -64,7 +64,10 @@ You will write a paper related to the topics discussed over the course of the se
 
 
   
-### Week Five: Noemi Discussion Question
+### Week Five: 
+
+Noemi Discussion Question Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.”
+Kajdere discusses extended literacy in relation to the way we interact with our environments outside of acadamia. How does her article remind you of the ways you have incorporated your literacy skills to your personal interactions? Or vice versa?
 
 
 
