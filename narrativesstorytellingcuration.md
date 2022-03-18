@@ -17,7 +17,11 @@ This course focuses on understanding the ways in which curation can be used to s
 
 
 ## Required Texts
-<i>Rogue Archives: Digital Cultural Memory and Media Fandom</i> by Abigail DeKosnik 
+This course will implement a variety of practical and theoretical texts. Most of the course materials are open-access or provided with access through UCF libraries, but excerpts from the following primary books will be included on the weeks in which they are assigned:
+<center>Kosnik, Abigail De. 2016. Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press.</center>
+Hatavara, Mari, Matti Hyvärinen, Maria Mäkelä, and Frans Mäyrä. 2015. Narrative Theory, Literature, and New Media: Narrative Minds and Virtual Worlds. Routledge.
+Reilly, Maura. 2018. Curatorial Activism: Towards an Ethics of Curating. Thames & Hudson.
+
 
 ### Grading
 
