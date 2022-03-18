@@ -60,9 +60,10 @@ You will write a paper related to the topics discussed over the course of the se
 
 
 
-### Week Four: 
+### Week Four:
+Kosnik, Abigail De. 2016. Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press. Chapter 7: "Archontic Production Free Culture and Free Software as Versioning" (pp 273 – 306)
 
-
+Storyboard
   
 ### Week Five: 
 
