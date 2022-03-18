@@ -10,9 +10,9 @@ This course focuses on using web-based tools on understanding ways in which cura
 
 ## Course Objectives
 
-Examine the impact of curatorial practice form themes, fan theories, and debates in fan studies. 
-Identify current themes in fan studies and growth of narrative in visual media environment. 
-Students are to become familiar with web open-source tools.
+- Examine the impact of curatorial practice form themes, fan theories, and debates in fan studies. 
+- Identify current themes in fan studies and growth of narrative in visual media environment. 
+- Students are to become familiar with web open-source tools.
 
 
 ## Required Texts
