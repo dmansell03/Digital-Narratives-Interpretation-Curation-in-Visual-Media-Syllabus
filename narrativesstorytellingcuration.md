@@ -3,6 +3,11 @@
 - **Email:** knavaroli@knights.ucf.edu; noemin@knights.ucf.edu; dmansell03@knights.ucf.edu
 - **Office:** Zoom; Wednesday 2:00 - 5:00 PM
 - **Course Meeting:** Asynchronous Online
+
+## Course Description
+
+This course focuses on using web-based tools on understanding ways in which curation can be used to shape narrative storytelling that influences our perception and consumption of narratives. Curation can be defined as “a action or process of selecting, analyzing, organizing, and sorting content in a collection and presenting in meaningful around a centralized theme.” Curation can be used to hold the narrative framework structure of a story together for listeners, viewers, or readers. By the use of web-based tools we can further examine the production, distribution, and consumption of these narratives towards an audience. The assignments throughout the course are structured to promote open-source digital resources, and help students broaden their understanding of curatorial work. 
+
 ## Readings 
 <i>Rogue Archives: Digital Cultural Memory and Media Fandom</i> by Abigail DeKosnik 
 
