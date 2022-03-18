@@ -1,7 +1,7 @@
 # ENG 6820: Narrative Storytelling Curation
 - **Instructors:** Keidra Navaroli, Noemi Nunez, and Demagio Mansell 
 - **Email:** knavaroli@knights.ucf.edu; noemin@knights.ucf.edu; dmansell03@knights.ucf.edu
-- **Office:** Zoom; Wednesday 2:00 - 5:00 PM
+- **Office Hours:** Zoom; Wednesdays 2:00 - 5:00 PM
 - **Course Meeting:** Asynchronous Online
 
 ## Course Description
