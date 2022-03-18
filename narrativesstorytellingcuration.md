@@ -85,7 +85,7 @@ Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, 
 
 Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." Practicing Anthropology 33 (2): 40–44.
 
-We've engaged with text that juxtaposes media that we are familiar with to ideas that what we have discussed so far. As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post,
+As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post,
 
 
   
