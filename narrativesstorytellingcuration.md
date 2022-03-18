@@ -1,4 +1,4 @@
-# ENG 6820: Narrative Storytelling Curation
+# ENG 6820: Digital Narratives: Interpretation and Curation in Visual Media
 - **Instructors:** Keidra Navaroli, Noemi Nunez, and Demagio Mansell 
 - **Email:** knavaroli@knights.ucf.edu; noemin@knights.ucf.edu; dmansell03@knights.ucf.edu
 - **Office Hours:** Zoom; Wednesdays 2:00 - 5:00 PM
