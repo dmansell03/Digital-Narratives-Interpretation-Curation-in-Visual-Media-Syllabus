@@ -39,7 +39,9 @@ You will develop an annotated bibliography exploring perspectives and theoretica
 
 ### Digital Exhibition: 
 
-You will create your own digital exhibition space using Scalar, a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. You will choose a specific story world and provide your audience with a visual and textual representation of your interpretation and narrative. Using Scalar makes it easy for the user to publish content online. You will utilize Scalar as a platform to discuss your findings through a written post that MUST incorporate use of media formats to support your findings.
+You will create your own digital exhibition space using Scalar, a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. You will choose a specific story world and provide your audience with a visual and textual representation of your interpretation and narrative. Using Scalar makes it easy for the user to publish content online. You will utilize Scalar as a platform to discuss your findings through a written post that MUST incorporate use of media formats to support your findings. 
+
+This assignment requires that you use Web-publishing platform Scalar. For a detailed introduction to resource, please reference the following tutorial page provided by the University of Illinois: https://guides.library.illinois.edu/c.php?g=348220&p=2348685. 
 
 ### Final Paper: 
 
