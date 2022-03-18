@@ -66,15 +66,17 @@ You will write a paper related to the topics discussed over the course of the se
   
 ### Week Five: 
 
-Noemi Discussion Question: Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.”
+Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.”
+
 Kajdere discusses extended literacy in relation to the way we interact with our environments outside of acadamia. How does her article remind you of the ways you have incorporated your literacy skills to your personal interactions? Or vice versa?
 
 
 
 ### Week Six: 
 
-Noemi Discussion Question: Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture. 
-We've engaged with theories that juxtaposes media that we are familiar with to a 
+Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture. 
+
+We've engaged with theories that juxtaposes media that we are familiar with to what we have discussed so far. As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. 
 
 
   
