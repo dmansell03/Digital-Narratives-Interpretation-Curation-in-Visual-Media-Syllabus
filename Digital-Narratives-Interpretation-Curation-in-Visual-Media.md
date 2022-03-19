@@ -120,7 +120,6 @@ You will write a paper related to the topics discussed over the course of the se
 
 - **[Discussion Question: Week 5](/Assignments/DiscussionWeek5.md)**
 
-Kajdere discusses extended literacy in relation to the way we interact with our environments outside of acadamia. How does her article remind you of the ways you have incorporated your literacy skills to your personal interactions? Or vice versa?
 
 ### Week Six: 
 
