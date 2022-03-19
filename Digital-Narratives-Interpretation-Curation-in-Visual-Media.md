@@ -34,6 +34,13 @@ This course will implement a variety of practical and theoretical texts. Most of
 | 15 | **Digital Exhibition** - You will create your own digital exhibition space using Scalar, a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. You will choose a specific story world and provide your audience with a visual and textual representation of your interpretation and narrative. 
 | 50 | **Final Paper** - You will write a paper related to the topics discussed over the course of the semester. Throughout the semester, we explored various theories related to visual media and art, as well as storytelling and narratives --your final paper should continue a conversation with texts we started during the semester. You should engage with issues and questions that arose through the texts and discussions in some specific way, using research and outside sources (a minimum of 5, at least 3 course texts referenced) to support your claims, argument(s), and/or assertions. While you are expected to use substantial sources, your voice and writing should still be primary. You are using sources to support your voice and content. The paper should be approximately 15 pages, double-spaced, and must closely and critically analyze and/or make a significant argument that addresses a question or issue arising from the materials from the course.|
 
+## Asynchronous Online Course Structure
+
+- This course does not have in person or synchronous meeting requirement. Students are able to schedule optional meetings with the course instructor on process or concerns throughout the duration of the class.
+- Office hours  will be available through the through webcourse messages, email, and via Zoom. 
+- Students are expected to have reliable tools to participate in the course. 
+- If students encounter an emergency or medical issues during the course, students should reach out to the course instructor on discussion a feasible plan or withdrawl from the class. 
+
 ## Grading Scale (%)
 
 A  94-100
@@ -168,9 +175,11 @@ Annotated bibliography
 
 ### Academic Integrity
 
-[The Center for Academic Integrity (CAI)](http://academicintegrity.org/) defines academic integrity as a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility. From these values flow principles of behavior that enable academic communities to translate ideals into action.
+The Center of Academic Integrity (CAI) defines academic integrity as a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility. From these values flow principles of behavior that enable academic communities to translate ideals into action.
 
-**UCF Creed:** Integrity, scholarship, community, creativity, and excellence are the core values that guide our conduct, performance, and decisions.
+[The Center for Academic Integrity (CAI)](http://academicintegrity.org/)
+
+[**UCF Creed:**](https://www.sdes.ucf.edu/creed/: Integrity, scholarship, community, creativity, and excellence are the core values that guide our conduct, performance, and decisions.
 
 1. Integrity: I will practice and defend academic and personal honesty.
 2. Scholarship: I will cherish and honor learning as a fundamental purpose of my membership in the UCF community.
