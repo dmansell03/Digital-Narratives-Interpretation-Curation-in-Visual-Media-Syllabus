@@ -115,21 +115,20 @@ You will write a paper related to the topics discussed over the course of the se
   
 ### Week Five: 
 
-Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.”
+*Readings*
+- *Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.”*
+
+- **[Discussion Question: Week 5](/Assignments/DiscussionWeek5.md)**
 
 Kajdere discusses extended literacy in relation to the way we interact with our environments outside of acadamia. How does her article remind you of the ways you have incorporated your literacy skills to your personal interactions? Or vice versa?
 
-
-
 ### Week Six: 
 
-Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture.
-
-Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." Practicing Anthropology 33 (2): 40–44.
+*Readings*
+- *Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture.*
+- *Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." Practicing Anthropology 33 (2): 40–44.*
 
 As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post,
-
-
   
 ### Week Seven: 
 
@@ -151,7 +150,9 @@ Annotated bibliography
 
 ### Week Eleven: Collaborative Question 
 
-Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” Medium (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c
+*Readings*
+- *Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” Medium (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c*
+
   
 ### Week Twelve: Collaborative Question 
 
