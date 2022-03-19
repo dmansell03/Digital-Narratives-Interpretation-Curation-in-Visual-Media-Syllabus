@@ -36,29 +36,29 @@ This course will implement a variety of practical and theoretical texts. Most of
 
 ## Grading Scale (%)
 
-A  = 94-100
+A  94-100
 
-A- = 90-93
+A- 90-93
 
-B+ = 87-89
+B+ 87-89
 
-B  = 84-86
+B  84-86
 
-B- = 80-83
+B- 80-83
 
-C+ = 77-79 
+C+ 77-79 
 
-C  = 74-76 
+C  74-76 
 
-C- = 70-73 
+C- 70-73 
 
-D+ = 67-69 
+D+ 67-69 
 
-D  = 64-66 
+D  64-66 
 
-D- = 60-63 
+D- 60-63 
 
-F  = 0 - 59 
+F  0 - 59 
 
 ## Assignments
 
