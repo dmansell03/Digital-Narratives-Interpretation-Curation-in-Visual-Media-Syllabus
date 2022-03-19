@@ -34,6 +34,32 @@ This course will implement a variety of practical and theoretical texts. Most of
 | 15 | **Digital Exhibition** - You will create your own digital exhibition space using Scalar, a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. You will choose a specific story world and provide your audience with a visual and textual representation of your interpretation and narrative. 
 | 50 | **Final Paper** - You will write a paper related to the topics discussed over the course of the semester. Throughout the semester, we explored various theories related to visual media and art, as well as storytelling and narratives --your final paper should continue a conversation with texts we started during the semester. You should engage with issues and questions that arose through the texts and discussions in some specific way, using research and outside sources (a minimum of 5, at least 3 course texts referenced) to support your claims, argument(s), and/or assertions. While you are expected to use substantial sources, your voice and writing should still be primary. You are using sources to support your voice and content. The paper should be approximately 15 pages, double-spaced, and must closely and critically analyze and/or make a significant argument that addresses a question or issue arising from the materials from the course.|
 
+## Grading Scale (%)
+
+94-100 A
+
+90-93 A-
+
+87-89 B+
+
+84-86 B
+
+80-83 B-
+
+77-79 C+
+
+74-76 C
+
+70-73 C-
+
+67-69 D+
+
+64-66 D
+
+60-63 D-
+
+0 - 59 F
+
 ## Assignments
 
 ### Discussion Posts: 
