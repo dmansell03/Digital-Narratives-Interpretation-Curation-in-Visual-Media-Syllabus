@@ -108,16 +108,13 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 ### Week Three: 
 
 *Readings*
-- *Barragán, Paco. 2014. “Is the Arts Curator a Storyteller and Curating a Sophisticated Communication Process? (Curatorial Communication Process Diagram).” ARTPULSE [NO. 19 VOL 5 2014], June. https://www.academia.edu/7888157/Is_the_Arts_Curator_a_Storyteller_and_Curating_a_sophisticated_Communication_Process_Curatorial_Communication_Process_Diagram_.*
-- *Anderson, Kate T., and Puay Hoe Chua. 2010. “Digital Storytelling as an Interactive Digital Media Context.” Educational Technology 50 (5): 32–36.
+- Barragán, Paco. 2014. “Is the Arts Curator a Storyteller and Curating a Sophisticated Communication Process? (Curatorial Communication Process Diagram).” ARTPULSE [NO. 19 VOL 5 2014], June. https://www.academia.edu/7888157/Is_the_Arts_Curator_a_Storyteller_and_Curating_a_sophisticated_Communication_Process_Curatorial_Communication_Process_Diagram_.
+- Anderson, Kate T., and Puay Hoe Chua. 2010. “Digital Storytelling as an Interactive Digital Media Context.” Educational Technology 50 (5): 32–36.
+- DeKosnik, Abigail. 2016. "Archontic Production Free Culture and Free Software as Versioning." In Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press.
 
 - **[Discussion Question: Week 3](/Assignments/DiscussionWeek3.md)**
 
-### Week Four:
-
-*Readings*
-- *Kosnik, Abigail De. 2016. Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press. Chapter 7: "Archontic Production Free Culture and Free Software as Versioning" (pp 273 – 306)*
-
+### Week Four (Assignment 1):
 - **[Storyboard](/Assignments/Storyboard.md)**
   
 ### Week Five: 
@@ -131,12 +128,12 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 ### Week Six: 
 
 *Readings*
-- *Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture.*
-- *Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." Practicing Anthropology 33 (2): 40–44.*
+- Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture.
+- Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." Practicing Anthropology 33 (2): 40–44.
 
 As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post,
   
-### Week Seven: 
+### Week Seven (Assignment 2): 
 
 Annotated bibliography
 
@@ -144,27 +141,35 @@ Annotated bibliography
 
 ### Week Eight: Keidra Discussion Question 
 
-
+*Readings*
+- Battles, Matthew, and Michael Maizels. 2016. “Collections and/of Data: Art History and the Art Museum in the DH Mode.” Debates in the Digital Humanities. https://dash.harvard.edu/handle/1/34818040.
+- Taufik, Shadine. n.d. “Digital Curation and Storytelling in GLAM Institutions.” The Jakarta Post. Accessed March 17, 2022. https://www.thejakartapost.com/life/2020/10/06/digital-curation-and-storytelling-in-glam-institutions.html.
 
 ### Week Nine: Keidra Discussion Question 
 
+*Readings*
+- Hatavara, Mari, Matti Hyvärinen, Maria Mäkelä, and Frans Mäyrä. 2015. "Introduction: Minds in Action, Interpretive Traditions in Interaction." In Narrative Theory, Literature, and New Media: Narrative Minds and Virtual Worlds. Routledge.
+- Sharma, Sue Ann, and Mark E. Deschaine. 2016. “Digital Curation: A Framework to Enhance Adolescent and Adult Literacy Initiatives.” Journal of Adolescent & Adult Literacy 60 (1): 71–78.
 
+### Week Ten (Assignment 3): 
 
-### Week Ten: 
 
 
 
 ### Week Eleven: Collaborative Question 
 
 *Readings*
-- *Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” Medium (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c*
+- Reilly, Maura. 2018. "What is Curatorial Activism?" In Curatorial Activism: Towards an Ethics of Curating. Thames & Hudson.
+- Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” Medium (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c
 
   
 ### Week Twelve: Collaborative Question 
 
+*Readings*
+- Flanagan, Mary. 2000. “Navigating the Narrative in Space: Gender and Spatiality in Virtual Worlds.” Art Journal 59 (3): 74–85. https://doi.org/10.2307/778029.
+- Coltrain, James and Stephen Ramsay. 2019. “Can Video Games Be Humanities Scholarship?” In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 36–45. University of Minnesota Press. https://doi.org/10.5749/j.ctvg251hk.6.
 
-
-### Week Thirteen: 
+### Week Thirteen (Assignment 4): 
 
 
 ### Final Paper 
