@@ -94,7 +94,7 @@ You will write a paper related to the topics discussed over the course of the se
 ## Weekly Schedule
 
 ### Week One: Introductions and Activity Verification
-
+-Discussion Question: Week 1: Welcome to Class! Please note your major and academic year below, and share what sparked your interest in this course. What are you hoping to gain from your expereince with the readings, assignements, and class discussions? <i>Your reponse will serve as the academic verification activity for this course.</i>
 
 ### Week Two:
 
