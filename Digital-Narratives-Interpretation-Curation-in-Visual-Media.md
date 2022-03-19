@@ -179,7 +179,7 @@ The Center of Academic Integrity (CAI) defines academic integrity as a commitmen
 
 [The Center for Academic Integrity (CAI)](http://academicintegrity.org/)
 
-[**UCF Creed:**](https://www.sdes.ucf.edu/creed/: Integrity, scholarship, community, creativity, and excellence are the core values that guide our conduct, performance, and decisions.
+- **[UCF Creed](https://www.sdes.ucf.edu/creed/)**: Integrity, scholarship, community, creativity, and excellence are the core values that guide our conduct, performance, and decisions.
 
 1. Integrity: I will practice and defend academic and personal honesty.
 2. Scholarship: I will cherish and honor learning as a fundamental purpose of my membership in the UCF community.
