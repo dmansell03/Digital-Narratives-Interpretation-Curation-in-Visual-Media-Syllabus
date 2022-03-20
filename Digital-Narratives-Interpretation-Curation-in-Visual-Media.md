@@ -203,10 +203,6 @@ Plagiarism will not be tolerated. Plagiarism or cheating of any form will automa
 
 University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable.
 
-### Land Acknowledgement Statement
-
-The UCF Department of English acknowledges that our main campus stands on the traditional territories of the Seminole and Timucua peoples, and that other Native American traditional territories exist throughout Florida where our regional campuses are located. We collectively recognize their continuing connection to the land, water, and air and pay respect to their elders past, present, and emerging. We recognize the continuing consequences of colonialism on Indigenous peoples and their resilience in the face of colonial and state sponsored violence, and we fully endorse Indigenous Sovereignty.
-
 ### Campus Safety Statement
 
 Emergencies on campus are rare, but if one should arise during class, everyone needs to work together. Students should be aware of their surroundings and familiar with some basic safety and security concepts.
@@ -217,14 +213,18 @@ Emergencies on campus are rare, but if one should arise during class, everyone n
 - If there is a medical emergency during class, students may need to access a first-aid kit or AED (Automated External Defibrillator). To learn where those are located, see [locations](https://ehs.ucf.edu/automated-external-defibrillator-aed-locations).
 - To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to [MyUCF](https://my.ucf.edu) and logging in. Click on “Student Self Service” located on the left side of the screen in the toolbar, scroll down to the blue “Personal Information” heading on the Student Center screen, click on “UCF Alert”, fill out the information, including e-mail address, cell phone number, and cell phone provider, click “Apply” to save the changes, and then click “OK.”
 - Students with special needs related to emergency situations should speak with their instructors outside of class.
-- To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this [video](https://youtu.be/NIKYajEx4pk).
+- Please consider viewing this [video](https://youtu.be/NIKYajEx4pk) about how to manage an active-shooter situation on campus or elsewhere.
 
 ### Deployed Active Duty Military Students
 
-Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.
+If students who are deployed active duty military and require special accommodation due to your status should contact your instructor to discuss further the circumstances.
 
-### Authorized Events and Religious Observances
+## COVID-19
 
-Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
+UCF expects everyone to protect our campus community by getting vaccinated if able to, and wear facial covering indoors, in line with the latest CDC guidelines.  
 
-Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
+If the instructor falls ill during the semester, there may be temporary changes to this course, including having a backup instructor take over the course or going remote for a short time. Please look for announcements or mail in Webcourses@UCF or Knights email for any temporary alterations to this course. 
+ 
+Students who believe they may have been exposed to COVID-19 or who test positive must contact UCF Student Health Services (407-823-2509) so proper contact tracing procedures can take place. Students should not come to campus if they are ill, are experiencing any symptoms of COVID-19 or have tested positive for COVID-19. 
+ 
+Students should contact their instructor(s) as soon as possible if they miss class for any illness to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor(s) before missing class
