@@ -89,8 +89,6 @@ Although some class time will be devoted to an introduction to Scalar, please re
 
 You will write a paper related to the topics discussed over the course of the semester. Throughout the semester, we explored various theories related to visual media and art, as well as storytelling and narratives --your final paper should continue a conversation with texts we started during the semester. You should engage with issues and questions that arose through the texts and discussions in some specific way, using research and outside sources (a minimum of 5, at least 3 course texts referenced) to support your claims, argument(s), and/or assertions. While you are expected to use substantial sources, your voice and writing should still be primary. You are using sources to support your voice and content. The paper should be approximately 15 pages, double-spaced, and must closely and critically analyze and/or make a significant argument that addresses a question or issue arising from the materials from the course.
 
-
-
 ## Weekly Schedule
 
 ### Week One: Introductions and Activity Verification
@@ -174,6 +172,8 @@ As you start working on your annotated bibliography, think about the ways you ca
 - **[Discussion Question: Week 12](/Assignments/DiscussionWeek12.md)**
 
 ### Week Thirteen (Assignment 4): Final Paper 
+
+- **[Final Paper](/Assignments/FinalPaper.md)**
 
 - Submit & complete your Final Reflection, as well as any approved late work, by the end of finals week!
 
