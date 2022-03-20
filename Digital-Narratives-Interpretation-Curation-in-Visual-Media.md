@@ -130,7 +130,7 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 - Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture.
 - Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." Practicing Anthropology 33 (2): 40–44.
 
-As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post,
+As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any of the text discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post, how has your perception of visual media and creative spaces shifted, if at all? 
   
 ### Week Seven (Assignment 2): 
 
