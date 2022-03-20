@@ -133,8 +133,9 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 
 As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post,
   
-### Week Seven (Assignment 2): Annotated Bibliography
+### Week Seven (Assignment 2): 
 
+- **[Annotated Bibliography](/Assignments/AnnotatedBibliography.md)**
 
 ### Week Eight:
 
@@ -142,7 +143,7 @@ As you start working on your annotated bibliography, think about the ways you ca
 - Battles, Matthew, and Michael Maizels. 2016. “Collections and/of Data: Art History and the Art Museum in the DH Mode.” Debates in the Digital Humanities. https://dash.harvard.edu/handle/1/34818040.
 - Taufik, Shadine. n.d. “Digital Curation and Storytelling in GLAM Institutions.” The Jakarta Post. Accessed March 17, 2022. https://www.thejakartapost.com/life/2020/10/06/digital-curation-and-storytelling-in-glam-institutions.html.
 
-Discussion Question Week Eight: Both readings suggest that online exhibitions challenge the way information is communicated. As Battles and Maizels argue this can lead to tension between a "thing and its representation."  What are some of the advantages and disadvantages of exhibiting in a purely virtual space?
+- **[Discussion Question: Week 8](/Assignments/DiscussionWeek8.md)**
 
 ### Week Nine:
 
