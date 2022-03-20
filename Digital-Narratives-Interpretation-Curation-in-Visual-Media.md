@@ -134,7 +134,7 @@ As you start working on your annotated bibliography, think about the ways you ca
   
 ### Week Seven (Assignment 2): Annotated Bibliography
 
-*Supplemental reading*
+*Supplemental Readings*
 - The *JCMS: Journal of Cinema and Media Studies* is a peer-reviewed, scholarly publication that houses articles discussing digital media, production, circulation, and cultural interpretations. https://muse.jhu.edu/journal/31 
 - *Curator: The Museum Journal* provides a forum for exploration and debate of the latest issues, practices, and policies of current concern to the community. https://onlinelibrary.wiley.com/page/journal/21516952/homepage/productinformation.html 
 - These are not required readings, but can be helpful to look through for inspiration as you assemble your sources for your annotated bibliography. 
@@ -158,7 +158,7 @@ As you start working on your annotated bibliography, think about the ways you ca
 - **[Discussion Question: Week 9](/Assignments/DiscussionWeek9.md)**
 
 ### Week Ten (Assignment 3): Digital Exhibition
-*Supplemental Reading*
+*Supplemental Readings*
 - Exhibitions and Online Literature: Explore the following sources as supplemental inspiration for your digital exhibition assignment.
 1) The Digital Review: https://thedigitalreview.com/ 
 2) Surviving History: The Fever! by Rachel Ponce: http://theappendix.net/special/the-fever/ 
