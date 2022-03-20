@@ -16,7 +16,7 @@ This course focuses on understanding the ways in which curation can be used to s
 - Teach students effective methods for the discussion, organization, and presentation of their research.
 
 
-## Required Texts and Materials
+## Texts and Materials
 This course will implement a variety of practical and theoretical texts. Most of the course materials are open-access or provided with access through UCF libraries, but excerpts from the following primary books will be included on the weeks in which they are assigned:
 
 1) Kosnik, Abigail De. 2016. <i>Rogue Archives: Digital Cultural Memory and Media Fandom.</i> MIT Press.
@@ -36,10 +36,10 @@ This course will implement a variety of practical and theoretical texts. Most of
 
 ## Asynchronous Online Course Structure
 
-- This course does not have in person or synchronous meeting requirement. Students are able to schedule optional meetings with the course instructor on process or concerns throughout the duration of the class.
-- Office hours  will be available through the through webcourse messages, email, and via Zoom. 
+- This course does not have an in-person or synchronous meeting requirement. Students are able to schedule optional meetings with the course instructor on process or concerns throughout the duration of the class.
+- Office hours will be available through Webcourses, email, and via Zoom. 
 - Students are expected to have reliable tools to participate in the course. 
-- If students encounter an emergency or medical issues during the course, students should reach out to the course instructor on discussion a feasible plan or withdrawl from the class. 
+- If students encounter an emergency or medical issues during the course, students should reach out to the course instructor to discuss a feasible plan or to withdraw from the class. 
 
 ## Grading Scale (%)
 
