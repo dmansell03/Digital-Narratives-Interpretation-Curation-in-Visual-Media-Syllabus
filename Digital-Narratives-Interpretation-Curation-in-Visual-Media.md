@@ -193,26 +193,15 @@ The Center of Academic Integrity (CAI) defines academic integrity as a commitmen
 4. Creativity: I will use my talents to enrich the human experience.
 5. Excellence: I will strive toward the highest standards of performance in any endeavor I undertake.
 
-Students should familiarize themselves with [UCF’s Rules of Conduct](https://scai.sdes.ucf.edu/student-rules-of-conduct/). According to Section 1, “Academic Misconduct,” students are prohibited from engaging in
+Students should review and familiarize themselves with Academic Misconduct section in [UCF’s Rules of Conduct](https://scai.sdes.ucf.edu/student-rules-of-conduct/). 
 
-1. Unauthorized assistance: Using or attempting to use unauthorized materials, information or study aids in any academic exercise unless specifically authorized by the instructor of record. The unauthorized possession of examination or course-related material also constitutes cheating.
-2. Communication to another through written, visual, electronic, or oral means: The presentation of material which has not been studied or learned, but rather was obtained through someone else’s efforts and used as part of an examination, course assignment, or project.
-3. Commercial Use of Academic Material: Selling of course material to another person, student, and/or uploading course material to a third-party vendor without authorization or without the express written permission of the university and the instructor. Course materials include but are not limited to class notes, Instructor’s PowerPoints, course syllabi, tests, quizzes, labs, instruction sheets, homework, study guides, handouts, etc.
-4. Falsifying or misrepresenting the student’s own academic work.
-5. Plagiarism: Using or appropriating another’s work without any indication of the source, thereby attempting to convey the impression that such work is the student’s own.
-6. Multiple Submissions: Submitting the same academic work for credit more than once without the express written permission of the instructor.
-7. Helping another violate academic behavior standards.
-8. Soliciting assistance with academic coursework and/or degree requirements.
+###  Plagiarism
 
-### Responses to Academic Dishonesty, Plagiarism, or Cheating
-
-Students should also familiarize themselves with the procedures for academic misconduct in UCF’s student handbook, [The Golden Rule](https://goldenrule.sdes.ucf.edu/). UCF faculty members have a responsibility for students’ education and the value of a UCF degree, and so seek to prevent unethical behavior and respond to academic misconduct when necessary. Penalties for violating rules, policies, and instructions within this course can range from a zero on the exercise to an “F” letter grade in the course. In addition, an Academic Misconduct report could be filed with the Office of Student Conduct, which could lead to disciplinary warning, disciplinary probation, or deferred suspension or separation from the University through suspension, dismissal, or expulsion with the addition of a “Z” designation on one’s transcript.
+Plagiarism will not be tolerated. Plagiarism or cheating of any form will automatically result in a "F" for the assignment and may result in a "F" or a "Z" designator  for the course grade. Students should review the procedures for academic misconduct in UCF’s student handbook, [The Golden Rule](https://goldenrule.sdes.ucf.edu/). UCF faculty members must uphold the responsibility of students' education and must report any academic misconduct that takes place. All Academic Misconduct will be reported to the Office of Student Conduct. Once reported, academic misconduct can lead to disciplinary warning, disciplinary probation, or suspension or separation from the University.
 
 ### Course Accessibility Statement
 
-This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardless of documentation.
-
-Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
+University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable.
 
 ### Land Acknowledgement Statement
 
