@@ -151,29 +151,27 @@ As you start working on your annotated bibliography, think about the ways you ca
 - Hatavara, Mari, Matti Hyvärinen, Maria Mäkelä, and Frans Mäyrä. 2015. "Introduction: Minds in Action, Interpretive Traditions in Interaction." In Narrative Theory, Literature, and New Media: Narrative Minds and Virtual Worlds. Routledge.
 - Sharma, Sue Ann, and Mark E. Deschaine. 2016. “Digital Curation: A Framework to Enhance Adolescent and Adult Literacy Initiatives.” Journal of Adolescent & Adult Literacy 60 (1): 71–78.
 
-Discussion Question Week Nine: Swarma and Deschaine identify five "C's" for digital curation. What are they and how can they address Hatavara et al.'s question concerning narratives: "how is it possible to create virtual worlds that are translatable from one narrative medium to another?"
+- **[Discussion Question: Week 9](/Assignments/DiscussionWeek9.md)**
 
-### Week Ten (Assignment 3): Digital Exhibition
+### Week Ten (Assignment 3):
 
+- **[Digital Exhibition](/Assignments/DigitalExhibition.md)**
 
-
-
-### Week Eleven: Collaborative Question 
+### Week Eleven: 
 
 *Readings*
 - Reilly, Maura. 2018. "What is Curatorial Activism?" In Curatorial Activism: Towards an Ethics of Curating. Thames & Hudson.
 - Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” Medium (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c
 
-Discussion Question Week Eleven: How do you think Web-based curation can be used to advance community activism? Note at least two examples from either the readings or other sources in your reply. 
-
-  
-### Week Twelve: Collaborative Question 
+- **[Discussion Question: Week 11](/Assignments/DiscussionWeek11.md)**
+ 
+### Week Twelve:
 
 *Readings*
 - Flanagan, Mary. 2000. “Navigating the Narrative in Space: Gender and Spatiality in Virtual Worlds.” Art Journal 59 (3): 74–85. https://doi.org/10.2307/778029.
 - Coltrain, James and Stephen Ramsay. 2019. “Can Video Games Be Humanities Scholarship?” In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 36–45. University of Minnesota Press. https://doi.org/10.5749/j.ctvg251hk.6.
 
-Discussion Question Week 12: Coltrain and Ramsay poignantly ask, "can video games go beyond merely illustrating or synthesizing humanistic content…to become vehicles for completely new interpretations in the humanities?" Consider what you have learned over the course of the last twelve weeks (methodologies, disciplines, etc.). How would you answer this question?   
+- **[Discussion Question: Week 12](/Assignments/DiscussionWeek12.md)**
 
 ### Week Thirteen (Assignment 4): Final Paper 
 
