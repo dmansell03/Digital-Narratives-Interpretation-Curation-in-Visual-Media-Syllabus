@@ -133,13 +133,10 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 
 As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any theories discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post,
   
-### Week Seven (Assignment 2): 
-
-Annotated bibliography
+### Week Seven (Assignment 2): Annotated Bibliography
 
 
-
-### Week Eight: Keidra Discussion Question 
+### Week Eight:
 
 *Readings*
 - Battles, Matthew, and Michael Maizels. 2016. “Collections and/of Data: Art History and the Art Museum in the DH Mode.” Debates in the Digital Humanities. https://dash.harvard.edu/handle/1/34818040.
@@ -147,13 +144,15 @@ Annotated bibliography
 
 Discussion Question Week Eight: Both readings suggest that online exhibitions challenge the way information is communicated. As Battles and Maizels argue this can lead to tension between a "thing and its representation."  What are some of the advantages and disadvantages of exhibiting in a purely virtual space?
 
-### Week Nine: Keidra Discussion Question 
+### Week Nine:
 
 *Readings*
 - Hatavara, Mari, Matti Hyvärinen, Maria Mäkelä, and Frans Mäyrä. 2015. "Introduction: Minds in Action, Interpretive Traditions in Interaction." In Narrative Theory, Literature, and New Media: Narrative Minds and Virtual Worlds. Routledge.
 - Sharma, Sue Ann, and Mark E. Deschaine. 2016. “Digital Curation: A Framework to Enhance Adolescent and Adult Literacy Initiatives.” Journal of Adolescent & Adult Literacy 60 (1): 71–78.
 
-### Week Ten (Assignment 3): 
+Discussion Question Week Nine: Swarma and Deschaine identify five "C's" for digital curation. What are they and how can they address Hatavara et al.'s question concerning narratives: "how is it possible to create virtual worlds that are translatable from one narrative medium to another?"
+
+### Week Ten (Assignment 3): Digital Exhibition
 
 
 
@@ -164,6 +163,8 @@ Discussion Question Week Eight: Both readings suggest that online exhibitions ch
 - Reilly, Maura. 2018. "What is Curatorial Activism?" In Curatorial Activism: Towards an Ethics of Curating. Thames & Hudson.
 - Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” Medium (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c
 
+Discussion Question Week Eleven: How do you think Web-based curation can be used to advance community activism? Note at least two examples from either the readings or other sources in your reply. 
+
   
 ### Week Twelve: Collaborative Question 
 
@@ -171,10 +172,9 @@ Discussion Question Week Eight: Both readings suggest that online exhibitions ch
 - Flanagan, Mary. 2000. “Navigating the Narrative in Space: Gender and Spatiality in Virtual Worlds.” Art Journal 59 (3): 74–85. https://doi.org/10.2307/778029.
 - Coltrain, James and Stephen Ramsay. 2019. “Can Video Games Be Humanities Scholarship?” In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 36–45. University of Minnesota Press. https://doi.org/10.5749/j.ctvg251hk.6.
 
-### Week Thirteen (Assignment 4): 
+Discussion Question Week 12: Coltrain and Ramsay poignantly ask, "can video games go beyond merely illustrating or synthesizing humanistic content…to become vehicles for completely new interpretations in the humanities?" Consider what you have learned over the course of the last twelve weeks (methodologies, disciplines, etc.). How would you answer this question?   
 
-
-### Final Paper 
+### Week Thirteen (Assignment 4): Final Paper 
 
 - Submit & complete your Final Reflection, as well as any approved late work, by the end of finals week!
 
