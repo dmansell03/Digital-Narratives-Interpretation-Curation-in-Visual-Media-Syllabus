@@ -26,7 +26,7 @@ This course will implement a variety of practical and theoretical texts. Most of
 
 ### Evaluation and Grading
 
-| Points| Assignments Summary | 
+| Points Breakdown| Assignments | 
 |---|---|
 | 80  | **Discussion Post** - Each week (except those where a major assignment is due), you will answer a discussion question based off of the assigned readings. Your answers must be at least 200 words and should include a critical analysis of the text. When possible, you are encouraged to make connections to any previous readings, experiences, as well as any research interests. 
 | 15  | **Storyboard** - Storyboarding offers a way to visualize the relationship between objects and/or themes. You will take 10-20 images obtained from the open-source media platform of your choice (including Flickr, Wikimedia Commons, the Metropolitan Museum of Art, Smithsonian Institution, etc.) or you may use personal photographs or artwork. Think about the ways the objects relate to one another visually or thematically and organize across at least three pages. Create a title for your storyboards with a brief 50–200-word introduction. Additionally, a 250–500-word reflection on the process should note what you learned and how that informed the subjects/iconography you chose? Images can be organized digitally in the preferred platform of your choice (MS Publisher, Adobe, Google docs, etc.) or created by hand and scanned. Share what you’ve learned!
