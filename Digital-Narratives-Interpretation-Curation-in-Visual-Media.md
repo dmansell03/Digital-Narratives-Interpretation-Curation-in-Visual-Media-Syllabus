@@ -119,6 +119,7 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 
 *Readings*
 - *Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.”*
+- Howell, Katherine A. 2020 "The Absence of Race: Teaching Practices and Inclusion in the Fandom Classroom" in Fandom, Now in Color: A collection of Voices.
 
 - **[Discussion Question: Week 5](/Assignments/DiscussionWeek5.md)**
 
