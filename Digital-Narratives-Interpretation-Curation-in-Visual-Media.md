@@ -135,7 +135,9 @@ As you start working on your annotated bibliography, think about the ways you ca
 ### Week Seven (Assignment 2): Annotated Bibliography
 
 *Supplemental reading*
-- The JCMS: Journal of Cinema and Media Studies is a peer-reviewed, scholarly publication that houses articles discussing digital media, production, circulation, and cultural interpretations. This is not required reading, but can be helpful to look through for inspiration as you assemble your sources for your annotated bibliography.  https://muse.jhu.edu/journal/31 
+- The *JCMS: Journal of Cinema and Media Studies* is a peer-reviewed, scholarly publication that houses articles discussing digital media, production, circulation, and cultural interpretations. https://muse.jhu.edu/journal/31 
+- *Curator: The Museum Journal* provides a forum for exploration and debate of the latest issues, practices, and policies of current concern to the community. https://onlinelibrary.wiley.com/page/journal/21516952/homepage/productinformation.html 
+- These are not required readings, but can be helpful to look through for inspiration as you assemble your sources for your annotated bibliography. 
 
 - **[Annotated Bibliography](/Assignments/AnnotatedBibliography.md)**
 
