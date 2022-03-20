@@ -132,7 +132,7 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 
 As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any of the texts discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post, how has your perception of visual media and creative spaces shifted, if at all? How has the definition of fan and fan spaces changed, if at all?
   
-### Week Seven (Assignment 2): 
+### Week Seven (Assignment 2): Annotated Bibliography
 
 - **[Annotated Bibliography](/Assignments/AnnotatedBibliography.md)**
 
