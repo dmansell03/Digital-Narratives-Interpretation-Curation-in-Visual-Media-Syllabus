@@ -147,8 +147,8 @@ As you start working on your annotated bibliography, think about the ways you ca
 ### Week Nine:
 
 *Readings*
-- Hatavara, Mari, Matti Hyvärinen, Maria Mäkelä, and Frans Mäyrä. 2015. "Introduction: Minds in Action, Interpretive Traditions in Interaction." In Narrative Theory, Literature, and New Media: Narrative Minds and Virtual Worlds. Routledge.
 - Sharma, Sue Ann, and Mark E. Deschaine. 2016. “Digital Curation: A Framework to Enhance Adolescent and Adult Literacy Initiatives.” Journal of Adolescent & Adult Literacy 60 (1): 71–78.
+- Quan-Haase, Anabel, and Kim Martin. 2013. “Digital Curation and the Networked Audience of Urban Events: Expanding La Fiesta de Santo Tomás from the Physical to the Virtual Environment.” International Communication Gazette 75 (5–6): 521–37. https://doi.org/10.1177/1748048513491910.
 
 - **[Discussion Question: Week 9](/Assignments/DiscussionWeek9.md)**
 
