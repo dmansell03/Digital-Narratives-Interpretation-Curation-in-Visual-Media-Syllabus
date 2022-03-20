@@ -156,6 +156,12 @@ As you start working on your annotated bibliography, think about the ways you ca
 - **[Discussion Question: Week 9](/Assignments/DiscussionWeek9.md)**
 
 ### Week Ten (Assignment 3): Digital Exhibition
+*Supplemental Reading*
+- Exhibitions and Online Literature: Explore the following sources as supplemental inspiration for your digital exhibition assignment.
+1) The Digital Review: https://thedigitalreview.com/ 
+2) Surviving History: The Fever! by Rachel Ponce: http://theappendix.net/special/the-fever/ 
+3) Omeka Showcase: https://omeka.org/classic/showcase/
+4) Scalar Exhibitions: https://libraries.usc.edu/collection/digital-exhibitions 
 
 - **[Digital Exhibition](/Assignments/DigitalExhibition.md)**
 
