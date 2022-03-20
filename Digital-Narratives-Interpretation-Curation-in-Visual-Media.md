@@ -19,8 +19,9 @@ This course focuses on understanding the ways in which curation can be used to s
 ## Texts and Materials
 This course will implement a variety of practical and theoretical texts. Most of the course materials are open-access or provided with access through UCF libraries, but excerpts from the following primary books will be included on the weeks in which they are assigned:
 
-1) Kosnik, Abigail De. 2016. <i>Rogue Archives: Digital Cultural Memory and Media Fandom.</i> MIT Press.
-2) Reilly, Maura. 2018. <i>Curatorial Activism: Towards an Ethics of Curating.</i> Thames & Hudson.
+1) Howell, Katherine A. 2020. *Fandom, Now in Color: A Collection of Voices.* University of Iowa Press.
+2) Kosnik, Abigail De. 2016. <i>Rogue Archives: Digital Cultural Memory and Media Fandom.</i> MIT Press.
+3) Reilly, Maura. 2018. <i>Curatorial Activism: Towards an Ethics of Curating.</i> Thames & Hudson.
 
 
 ### Evaluation and Grading
@@ -96,9 +97,9 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 ### Week Two:
 
 *Readings*
-- *Kosnik, Abigail De. 2016. Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press. Introduction (pp 1-24)*
-- *Kosnik, Abigail De. 2016. Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press. Chapter 3: "Queer and Feminist Archival Cultures: The Politics of Preserving Fan Works" (pp 131 – 154)*
-- *Constanza-Chock, Sasha. 2020. “Design Narratives: From TXTMob to Twitter.” In Design Justice. https://design-justice.pubpub.org/pub/0v6035ye/release/2.*
+- Kosnik, Abigail De. 2016. "Introduction." In*Rogue Archives: Digital Cultural Memory and Media Fandom.* MIT Press: 1-24.
+- Kosnik, Abigail De. 2016. Chapter 3: "Queer and Feminist Archival Cultures: The Politics of Preserving Fan Works." In *Rogue Archives: Digital Cultural Memory and Media Fandom.* MIT Press: 131 – 154.
+- Constanza-Chock, Sasha. 2020. “Design Narratives: From TXTMob to Twitter.” In *Design Justice.* https://design-justice.pubpub.org/pub/0v6035ye/release/2.
 
 - **[Discussion Question: Week 2](/Assignments/DiscussionWeek2.md)**
 
@@ -106,19 +107,19 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 
 *Readings*
 - Barragán, Paco. 2014. “Is the Arts Curator a Storyteller and Curating a Sophisticated Communication Process? (Curatorial Communication Process Diagram).” ARTPULSE [NO. 19 VOL 5 2014], June. https://www.academia.edu/7888157/Is_the_Arts_Curator_a_Storyteller_and_Curating_a_sophisticated_Communication_Process_Curatorial_Communication_Process_Diagram_.
-- Anderson, Kate T., and Puay Hoe Chua. 2010. “Digital Storytelling as an Interactive Digital Media Context.” Educational Technology 50 (5): 32–36.
-- Kosnik, Abigail De. 2016. "Archontic Production Free Culture and Free Software as Versioning." In Rogue Archives: Digital Cultural Memory and Media Fandom. MIT Press.
+- Anderson, Kate T., and Puay Hoe Chua. 2010. “Digital Storytelling as an Interactive Digital Media Context.” *Educational Technology* 50 (5): 32–36.
+- Kosnik, Abigail De. 2016. "Archontic Production Free Culture and Free Software as Versioning." In *Rogue Archives: Digital Cultural Memory and Media Fandom.* MIT Press: 273 – 306.
 
 - **[Discussion Question: Week 3](/Assignments/DiscussionWeek3.md)**
 
-### Week Four (Assignment 1):
+### Week Four (Assignment 1): Storyboard
 - **[Storyboard](/Assignments/Storyboard.md)**
   
 ### Week Five: 
 
 *Readings*
-- *Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.”*
-- Howell, Katherine A. 2020 "The Absence of Race: Teaching Practices and Inclusion in the Fandom Classroom" in Fandom, Now in Color: A collection of Voices.
+- Kajder. 2004 - “Enter Here: Personal Narrative and Digital Storytelling.” *The English Journal* 93 (3): 64–68. https://doi.org/10.2307/4128811.
+- Howell, Katherine A. 2020 "The Absence of Race: Teaching Practices and Inclusion in the Fandom Classroom." In *Fandom, Now in Color: A Collection of Voices.* University of Iowa Press.
 
 - **[Discussion Question: Week 5](/Assignments/DiscussionWeek5.md)**
 
@@ -126,10 +127,10 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 ### Week Six: 
 
 *Readings*
-- Jenkins, H. (2006). Experts from 'Matt Hills interviews Henry Jenkins' in Fans, bloggers, and gamers: exploring participatory culture.
-- Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." Practicing Anthropology 33 (2): 40–44.
+- Jenkins, Henry. 2006. “Excerpts from Matt Hills Interviews Henry Jenkins.” In *Fans, Bloggers, and Gamers: Exploring Participatory Culture.* New York University Press. http://hdl.handle.net/2027/heb.08235.
+- Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." *Practicing Anthropology* 33 (2): 40–44.
 
-As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any of the text discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post, how has your perception of visual media and creative spaces shifted, if at all? How has the definition of fan and fan spaces changed, if at all?
+As you start working on your annotated bibliography, think about the ways you can contetxualize your research interests to any of the texts discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post, how has your perception of visual media and creative spaces shifted, if at all? How has the definition of fan and fan spaces changed, if at all?
   
 ### Week Seven (Assignment 2): 
 
@@ -138,27 +139,27 @@ As you start working on your annotated bibliography, think about the ways you ca
 ### Week Eight:
 
 *Readings*
-- Battles, Matthew, and Michael Maizels. 2016. “Collections and/of Data: Art History and the Art Museum in the DH Mode.” Debates in the Digital Humanities. https://dash.harvard.edu/handle/1/34818040.
-- Taufik, Shadine. n.d. “Digital Curation and Storytelling in GLAM Institutions.” The Jakarta Post. Accessed March 17, 2022. https://www.thejakartapost.com/life/2020/10/06/digital-curation-and-storytelling-in-glam-institutions.html.
+- Battles, Matthew, and Michael Maizels. 2016. “Collections and/of Data: Art History and the Art Museum in the DH Mode.” *Debates in the Digital Humanities.* Edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press. https://dash.harvard.edu/handle/1/34818040.
+- Taufik, Shadine. n.d. “Digital Curation and Storytelling in GLAM Institutions.” *The Jakarta Post.* https://www.thejakartapost.com/life/2020/10/06/digital-curation-and-storytelling-in-glam-institutions.html.
 
 - **[Discussion Question: Week 8](/Assignments/DiscussionWeek8.md)**
 
 ### Week Nine:
 
 *Readings*
-- Sharma, Sue Ann, and Mark E. Deschaine. 2016. “Digital Curation: A Framework to Enhance Adolescent and Adult Literacy Initiatives.” Journal of Adolescent & Adult Literacy 60 (1): 71–78.
-- Quan-Haase, Anabel, and Kim Martin. 2013. “Digital Curation and the Networked Audience of Urban Events: Expanding La Fiesta de Santo Tomás from the Physical to the Virtual Environment.” International Communication Gazette 75 (5–6): 521–37. https://doi.org/10.1177/1748048513491910.
+- Sharma, Sue Ann, and Mark E. Deschaine. 2016. “Digital Curation: A Framework to Enhance Adolescent and Adult Literacy Initiatives.” *Journal of Adolescent & Adult Literacy* 60 (1): 71–78.
+- Quan-Haase, Anabel, and Kim Martin. 2013. “Digital Curation and the Networked Audience of Urban Events: Expanding La Fiesta de Santo Tomás from the Physical to the Virtual Environment.” *International Communication Gazette* 75 (5–6): 521–37. https://doi.org/10.1177/1748048513491910.
 
 - **[Discussion Question: Week 9](/Assignments/DiscussionWeek9.md)**
 
-### Week Ten (Assignment 3):
+### Week Ten (Assignment 3): Digital Exhibition
 
 - **[Digital Exhibition](/Assignments/DigitalExhibition.md)**
 
 ### Week Eleven: 
 
 *Readings*
-- Reilly, Maura. 2018. "What is Curatorial Activism?" In Curatorial Activism: Towards an Ethics of Curating. Thames & Hudson.
+- Reilly, Maura. 2018. "What is Curatorial Activism?" In *Curatorial Activism: Towards an Ethics of Curating.* Thames & Hudson.
 - Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” Medium (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c
 
 - **[Discussion Question: Week 11](/Assignments/DiscussionWeek11.md)**
@@ -166,8 +167,8 @@ As you start working on your annotated bibliography, think about the ways you ca
 ### Week Twelve:
 
 *Readings*
-- Flanagan, Mary. 2000. “Navigating the Narrative in Space: Gender and Spatiality in Virtual Worlds.” Art Journal 59 (3): 74–85. https://doi.org/10.2307/778029.
-- Coltrain, James and Stephen Ramsay. 2019. “Can Video Games Be Humanities Scholarship?” In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 36–45. University of Minnesota Press. https://doi.org/10.5749/j.ctvg251hk.6.
+- Flanagan, Mary. 2000. “Navigating the Narrative in Space: Gender and Spatiality in Virtual Worlds.” *Art Journal* 59 (3): 74–85. https://doi.org/10.2307/778029.
+- Coltrain, James and Stephen Ramsay. 2019. “Can Video Games Be Humanities Scholarship?” In *Debates in the Digital Humanities.* Edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press. https://doi.org/10.5749/j.ctvg251hk.6.
 
 - **[Discussion Question: Week 12](/Assignments/DiscussionWeek12.md)**
 
@@ -175,7 +176,7 @@ As you start working on your annotated bibliography, think about the ways you ca
 
 - **[Final Paper](/Assignments/FinalPaper.md)**
 
-- Submit & complete your Final Reflection, as well as any approved late work, by the end of finals week!
+- Submit and complete your Final Reflection, as well as any approved late work, by the end of finals week!
 
 ## General Policies
 
