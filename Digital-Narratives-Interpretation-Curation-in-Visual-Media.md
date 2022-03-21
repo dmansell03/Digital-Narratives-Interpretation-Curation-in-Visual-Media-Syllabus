@@ -106,7 +106,7 @@ Welcome to Class! Please note your major and academic year, and share what spark
 ### Week Three: 
 
 *Readings*
-- Barragán, Paco. 2014. “Is the Arts Curator a Storyteller and Curating a Sophisticated Communication Process? (Curatorial Communication Process Diagram).” ARTPULSE [NO. 19 VOL 5 2014], June. https://www.academia.edu/7888157/Is_the_Arts_Curator_a_Storyteller_and_Curating_a_sophisticated_Communication_Process_Curatorial_Communication_Process_Diagram_.
+- Barragán, Paco. 2014. “Is the Arts Curator a Storyteller and Curating a Sophisticated Communication Process? (Curatorial Communication Process Diagram).” *Artpulse* 19, no. 5 (2014). https://www.academia.edu/7888157/Is_the_Arts_Curator_a_Storyteller_and_Curating_a_sophisticated_Communication_Process_Curatorial_Communication_Process_Diagram_.
 - Anderson, Kate T., and Puay Hoe Chua. 2010. “Digital Storytelling as an Interactive Digital Media Context.” *Educational Technology* 50 (5): 32–36.
 - Kosnik, Abigail De. 2016. "Archontic Production Free Culture and Free Software as Versioning." In *Rogue Archives: Digital Cultural Memory and Media Fandom.* MIT Press: 273 – 306.
 
