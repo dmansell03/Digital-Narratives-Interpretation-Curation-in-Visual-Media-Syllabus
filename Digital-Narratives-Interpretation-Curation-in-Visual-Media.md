@@ -164,7 +164,7 @@ As you start working on your annotated bibliography, think about the ways you ca
 
 ### Week Ten (Assignment 3): Digital Exhibition
 *Supplemental Readings*
-- Exhibitions and Online Literature: Explore the following sources as supplemental inspiration for your digital exhibition assignment.
+- Explore the following sources as supplemental inspiration for your digital exhibition assignment.
 1) The Digital Review: https://thedigitalreview.com/ 
 2) Surviving History: The Fever! by Rachel Ponce: http://theappendix.net/special/the-fever/ 
 3) Omeka Showcase: https://omeka.org/classic/showcase/
