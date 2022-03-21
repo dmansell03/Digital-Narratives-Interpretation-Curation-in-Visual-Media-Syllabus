@@ -92,7 +92,7 @@ You will write a paper related to the topics discussed over the course of the se
 ## Weekly Schedule
 
 ### Week One: Introductions and Activity Verification
-Discussion Question: Week 1: Welcome to Class! Please note your major and academic year below, and share what sparked your interest in this course. What are you hoping to gain from your experience with the readings, assignments, and class discussions? <i>Your response will serve as the academic verification activity for this course.</i>
+Welcome to Class! Please note your major and academic year, and share what sparked your interest in this course. What are you hoping to gain from your experience with the readings, assignments, and class discussions? <i>Your response will serve as the academic verification activity for this course.</i>
 
 ### Week Two:
 
@@ -113,6 +113,11 @@ Discussion Question: Week 1: Welcome to Class! Please note your major and academ
 - **[Discussion Question: Week 3](/Assignments/DiscussionWeek3.md)**
 
 ### Week Four (Assignment 1): Storyboard
+*Supplemental Readings*
+- Bruce, David L. “Framing the Text: Using Storyboards to Engage Students with Reading.” *The English Journal* 100, no. 6 (2011): 78–85. http://www.jstor.org/stable/23047885.
+- Harrington, Suzanne L. “An Author’s Storyboard Technique as a Prewriting Strategy.” *The Reading Teacher* 48, no. 3 (1994): 283–86. http://www.jstor.org/stable/20201421.
+- Love, Bettina L. “Urban Storytelling: How Storyboarding, Moviemaking, and Hip-Hop-Based Education Can Promote Students’ Critical Voice.” *The English Journal* 103, no. 5 (2014): 53–58. http://www.jstor.org/stable/24484246.
+
 - **[Storyboard](/Assignments/Storyboard.md)**
   
 ### Week Five: 
