@@ -2,10 +2,10 @@
 
 ## Readings 
 
-- Reilly, Maura. 2018. "What is Curatorial Activism?" In *Curatorial Activism: Towards an Ethics of Curating.* Thames & Hudson.
-- Wagoner, Maya M. 2020. “Critical Community Technology Pedagogy.” *Medium* (blog). February 28, 2020. https://medium.com/@mayawagon/critical-community-technology-pedagogy-15c3ce41a22c*
+- Jenkins, Henry. 2006. “Excerpts from Matt Hills Interviews Henry Jenkins.” In *Fans, Bloggers, and Gamers: Exploring Participatory Culture.* New York University Press. http://hdl.handle.net/2027/heb.08235.
+- Turner, Christopher Lindsay. 2011. "Making Native Space: Cultural Politics, Historical Narrative, and Community Curation at the National Museum of the American Indian." *Practicing Anthropology* 33 (2): 40–44.
 
 ## Discussion Prompt
 
-How do you think Web-based curation can be used to advance community activism? Note at least two examples from either the readings or other sources in your reply. 
+As you start working on your annotated bibliography, think about the ways you can contextualize your research interests to any of the texts discussed so far. Keep in mind that your annotated bibliography is a starting point for your final paper. For this week's discussion post, how has your perception of visual media and creative spaces shifted, if at all? How has your definition of fan and fan spaces changed, if at all?
 
