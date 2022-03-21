@@ -2,8 +2,8 @@
 
 ## Readings 
 
-- *Flanagan, Mary. 2000. “Navigating the Narrative in Space: Gender and Spatiality in Virtual Worlds.” Art Journal 59 (3): 74–85. https://doi.org/10.2307/778029.*
-- *Coltrain, James and Stephen Ramsay. 2019. “Can Video Games Be Humanities Scholarship?” In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 36–45. University of Minnesota Press. https://doi.org/10.5749/j.ctvg251hk.6.*
+- Flanagan, Mary. 2000. “Navigating the Narrative in Space: Gender and Spatiality in Virtual Worlds.” *Art Journal* 59 (3): 74–85. https://doi.org/10.2307/778029.
+- Coltrain, James and Stephen Ramsay. 2019. “Can Video Games Be Humanities Scholarship?” In *Debates in the Digital Humanities.* Edited by Matthew K. Gold and Lauren F. Klein, 36–45. University of Minnesota Press. https://doi.org/10.5749/j.ctvg251hk.6.*
 
 ## Discussion Prompt
 
