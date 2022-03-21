@@ -142,7 +142,7 @@ As you start working on your annotated bibliography, think about the ways you ca
 *Supplemental Readings*
 - The *JCMS: Journal of Cinema and Media Studies* is a peer-reviewed, scholarly publication that houses articles discussing digital media, production, circulation, and cultural interpretations. https://muse.jhu.edu/journal/31 
 - *Curator: The Museum Journal* provides a forum for exploration and debate of the latest issues, practices, and policies of current concern to the community. https://onlinelibrary.wiley.com/page/journal/21516952/homepage/productinformation.html 
-- These are not required readings, but can be helpful to look through for inspiration as you assemble your sources for your annotated bibliography. 
+- These are not required readings but can be helpful to look through for inspiration as you assemble your sources for your annotated bibliography. 
 
 - **[Annotated Bibliography](/Assignments/AnnotatedBibliography.md)**
 
@@ -210,7 +210,7 @@ The Center of Academic Integrity (CAI) defines academic integrity as a commitmen
 4. Creativity: I will use my talents to enrich the human experience.
 5. Excellence: I will strive toward the highest standards of performance in any endeavor I undertake.
 
-Students should review and familiarize themselves with Academic Misconduct section in [UCF’s Rules of Conduct](https://scai.sdes.ucf.edu/student-rules-of-conduct/). 
+Students should review and familiarize themselves with the Academic Misconduct section in [UCF’s Rules of Conduct](https://scai.sdes.ucf.edu/student-rules-of-conduct/). 
 
 ###  Plagiarism
 
